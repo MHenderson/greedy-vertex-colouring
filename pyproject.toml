@@ -1,0 +1,17 @@
+[project]
+name = "greedy-vertex-colouring"
+version = "0.0.0.9000"
+description = "Greedy vertex-colouring of graphs."
+authors = [
+    {name = "Matthew Henderson",email = "matthew.james.henderson@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+package-mode = false
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
