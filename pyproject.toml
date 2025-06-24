@@ -9,6 +9,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 package-mode = false
 dependencies = [
+    "networkx (>=3.5,<4.0)"
 ]
 
 
